@@ -9,4 +9,5 @@ Debug/*
 Release/*
 */Release/*
 *.gitignorefile*
-o-dh-005.json
+advListener.js
+o-dh-005.aessecret.json
