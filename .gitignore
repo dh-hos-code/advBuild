@@ -1,0 +1,12 @@
+.vs/*
+*/.vs/*
+bin/*
+*/bin/*
+obj/*
+*/obj/*
+Debug/*
+*/Debug/*
+Release/*
+*/Release/*
+*.gitignorefile*
+o-dh-005.json
