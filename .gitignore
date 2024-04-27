@@ -10,3 +10,4 @@ Release/*
 advListener.js
 o-dh-005.aessecret.json
 advExecuteTask.js
+.local-webpack-build-version
